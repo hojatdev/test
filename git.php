@@ -1,3 +1,16 @@
 <?php 
 echo "Hello git";
-echo "ahojat";
+/**
+ * 
+ */
+class ClassName extends AnotherClass
+{
+	
+	function __construct(argument)
+	{
+		// code...
+	}
+	public function test(){
+		
+	}
+}
