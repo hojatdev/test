@@ -1,9 +1,7 @@
 <?php 
 echo "Hello git";
-<<<<<<< HEAD
 echo "ehojat";
 
-=======
 /**
  * 
  */
@@ -18,4 +16,3 @@ class ClassName extends AnotherClass
 		
 	}
 }
->>>>>>> hojat
