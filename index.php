@@ -1,1 +1,6 @@
-indexgdfgddsfs dfsdf
+<?php 
+
+/**
+ * 
+ */
+echo 'index page';
