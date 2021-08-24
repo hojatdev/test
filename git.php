@@ -2,9 +2,6 @@
 echo "Hello git";
 echo "ehojat";
 
-/**
- * 
- */
 class ClassName extends AnotherClass
 {
 	
@@ -14,5 +11,8 @@ class ClassName extends AnotherClass
 	}
 	public function test(){
 		
+	}
+	public function github(){
+		return 'github';
 	}
 }
